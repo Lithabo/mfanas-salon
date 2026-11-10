@@ -1,0 +1,60 @@
+MFANA'S SALON — WINDOWS QUICK START
+
+1. Right-click the ZIP file and select Extract All.
+2. Open the extracted mfanas-salon folder.
+3. Double-click index.html. It opens in Chrome, Edge or your default browser.
+   No installation, Node.js, database or terminal commands are required.
+
+EDIT IN VS CODE
+Open VS Code > File > Open Folder > choose mfanas-salon.
+- config.js: WhatsApp and address are configured. Add confirmed opening hours.
+  Use international digits only, e.g. 27 followed by the number without its initial 0.
+- index.html: change sample service prices, names and wording.
+- styles.css: change colours, spacing and fonts.
+- hero.jpg, fade.jpg, detail.jpg: replace stock images with your own photographs.
+  Keep the same filenames, or update the matching src values in index.html.
+Save, then refresh your browser.
+
+BOOKING FLOW
+Select a service or complete the form. Preview the request. If a real WhatsApp
+number has been configured, Continue to WhatsApp opens the message. The visitor
+must press Send in WhatsApp. The salon must reply to confirm the appointment.
+WhatsApp is configured for 067 042 3484.
+There is no server, email integration, database, automatic appointment
+confirmation, payment processing or appointment calendar.
+The form does not store submissions in browser storage or send them to a server.
+
+MOBILE
+Includes responsive navigation, single-column phone layouts, 16px form inputs,
+touch-friendly controls and iPhone safe-area spacing. Works as a static website.
+To open on your phone, upload these files to a static website host and visit its
+HTTPS link. localhost on your laptop does not refer to your laptop on a phone.
+Android/iOS physical-device testing is still required before a client launch.
+
+BEFORE LAUNCH
+Service prices match the supplied salon poster. Confirm opening hours before launch.
+Replace stock inspiration photographs with salon-owned work when available.
+Test a complete WhatsApp request using the salon's real number.
+Check on an actual iPhone and Android device.
+Upload all files together with index.html at the host's web root.
+
+PHOTO CREDITS / SOURCES
+Stock inspiration only; these do not show Mfana's Salon or its own work.
+https://images.unsplash.com/photo-1503951914875-452162b0f3f1
+https://images.unsplash.com/photo-1621605815971-fbc98d665033
+https://images.unsplash.com/photo-1599351431202-1e0f0137899a
+Source: Unsplash. Review the source licences before redistributing this template
+commercially. Do not imply the photographed people endorse the salon.
+
+Created for Mfana's Salon by LiboTech.
+
+SERVICES FROM THE SALON POSTER
+Chriskop: R30
+Brash: R30
+Fade: R40
+Lady’s cut: R40
+Phungula: R30
+Razor cut: R50
+Trimming: R10
+Fade with Dye: R60
+Taper fade: R40
